@@ -1,0 +1,19 @@
+{
+  "name": "primevue-nuxtjs-quickstart",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "dev": "nuxt",
+    "build": "nuxt build",
+    "start": "nuxt start",
+    "generate": "nuxt generate"
+  },
+  "dependencies": {
+    "core-js": "^3.6.5",
+    "nuxt": "^2.14.6",
+    "primevue": "2.3.0",
+    "primeicons": "4.1.0",
+    "@nuxtjs/axios": "^5.13.1"
+  },
+  "devDependencies": {}
+}
